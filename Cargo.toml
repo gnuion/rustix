@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["lib/common", "bin/core", "bin/auth", "bin/storage"]
